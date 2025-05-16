@@ -1,0 +1,4 @@
+Step 1: Take two variables and store two values in it. For example, you can write a = 5 and b = 10. 
+Step 2: Create another variable that stores the sum of a and b. For example, c.
+Step 3: c = a + b.
+Step 4: Print c.
